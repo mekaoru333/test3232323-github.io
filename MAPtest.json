@@ -1,0 +1,1247 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "AWU5eFgkV3MwJccH1NO9gPZ7zXMhc80Er5vU2EI3JBbTko_7fwzGkgMoreQ48fAEqNMAel4kP0TjPb3Cq0VCzUn4dR2L7i71vP_nhX6zWD5kI9_JTntT-CPenWQchfxl3hGE9zXIV16vKfNvoe9BBQ8Z1C_7CiKtW6_IK9eJWz2zJaxbUcAxkaewvrUhqCR_zmaqBNq4Jqi1-CUL2A_p5fCHkS98ctERJiWtmPYY_ODeliMZ-oWVCmj0pr9sXvCImjQVsmP0okxbdVR5Uny_jb_ruaxeE-uxdLgTtGS2BzVGvbRQU5NR6HQUHqoczO-zJ5KiTILArh5rR_JBrOOqu-sOP06r7oFhAIy4MXaF1_AUbyI4MzHRPUXmxF_DaSQ8bAZ6sXR3VG--rJqJmVPeaHDNHpY-yezrIhyi5gSK62cWLag0nKi8WVLCW6KD",
+    "results" : 
+    [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.6593448,
+                "lng" : 138.1910512
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6607585302915,
+                   "lng" : 138.1922718302915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6580605697085,
+                   "lng" : 138.1895738697085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "萬佳亭",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 1479,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109739934424354697378\"\u003e43 suke\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFhZzGl7GQG6E51XIp0_ulanHgJhs8qnQdo1ti3MYKPOSMHU80Nr0VNLp7PMj8W6ZSEn1I5rTlGGW5J_qZJjl6BXvbr5lwQH6olyBu6Ir90UBqKpncdYp9N3Rjg8wKBZjnRfJj6akU6rOCvEDUCRWTCoB-mdloR_PC90q93ouDPyIGCB",
+                "width" : 1109
+             }
+          ],
+          "place_id" : "ChIJkdgoYfuGHWARVdX_V2dhdYo",
+          "plus_code" : 
+          {
+             "compound_code" : "M55R+PC 日本、長野県長野市",
+             "global_code" : "8Q8WM55R+PC"
+          },
+          "price_level" : 3,
+          "rating" : 4.2,
+          "reference" : "ChIJkdgoYfuGHWARVdX_V2dhdYo",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 168,
+          "vicinity" : "長野市大字長野東之門町２５０２"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.6529793,
+                "lng" : 138.1888679
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6543294302915,
+                   "lng" : 138.1902359302915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6516314697085,
+                   "lng" : 138.1875379697085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "麺屋蕪村 権堂店",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 2633,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112228717848982338439\"\u003et s\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFjysHbbiY3F-nfgHofDq9gl0cJ2z3CgS6VcKV0W1Nbj17Apv-zEmir2iSYz9f3NIcs7TJm4E9mWtfjESknXGDA6ft0CMXNNKCUkKvA6SB0TTaJTTuMVCENsc5Kls23P1mtQrgulvbTrHFOlh6cNK1fDb8PmoX3kwCPUdcETQIWIOYmU",
+                "width" : 3950
+             }
+          ],
+          "place_id" : "ChIJs2kJwu-GHWARM9r9Qwy4-7A",
+          "plus_code" : 
+          {
+             "compound_code" : "M53Q+5G 日本、長野県長野市",
+             "global_code" : "8Q8WM53Q+5G"
+          },
+          "price_level" : 2,
+          "rating" : 3.8,
+          "reference" : "ChIJs2kJwu-GHWARM9r9Qwy4-7A",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 225,
+          "vicinity" : "長野市鶴賀２２８４"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.65716,
+                "lng" : 138.187649
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6585122302915,
+                   "lng" : 138.1889312802915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6558142697085,
+                   "lng" : 138.1862333197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "THE FUJIYA GOHONJIN（藤屋御本陳）",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 600,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115675080648528661851\"\u003eTHE FUJIYA GOHONJIN（藤屋御本陳）\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFjS99s6OaLqlIkeWL-lIoGwHrEZkObRKau_cdtFGk-b7PqTBjc1m4wn-qYJ2JglPlB7JCwk2D9T2xQvK7QpZTKhHzDj0OlfpVpIF994ZCwKbQFvRNks5JtLFL9eOM9CQTUEnIHhuIA0OSz8wu7kxjF-KfKMyIIzdAcikhZztaqBQKTB",
+                "width" : 800
+             }
+          ],
+          "place_id" : "ChIJl_BijeSGHWAReDcIidR-I7A",
+          "plus_code" : 
+          {
+             "compound_code" : "M54Q+V3 日本、長野県長野市",
+             "global_code" : "8Q8WM54Q+V3"
+          },
+          "price_level" : 3,
+          "rating" : 4.5,
+          "reference" : "ChIJl_BijeSGHWAReDcIidR-I7A",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "meal_takeaway",
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 920,
+          "vicinity" : "長野市大門町８０"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.6555733,
+                "lng" : 138.1882399
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6569004802915,
+                   "lng" : 138.1897464802915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6542025197085,
+                   "lng" : 138.1870485197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "リストランテ・カンパネッラ",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3024,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101286552373243368066\"\u003eリストランテ・カンパネッラ\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFicVNPr0Gm9P-2sCgFfHadNusxeOPn5BaeEPjTKz66l4SVZOR0B3aEknw2U91YJd8o6S0cEK8SqHR34s9Ik19hH6wW7syxaNiVIMRmLwMZk5YrmjkfChVP74Jg8eghEP9aKQLV-s3Ucgzhl4CrJJGjm1N1UrjWVB-3jaYpL9h0V0Y6C",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJeYF1A-WGHWAR-XJ7lfITrOM",
+          "plus_code" : 
+          {
+             "compound_code" : "M54Q+67 日本、長野県長野市",
+             "global_code" : "8Q8WM54Q+67"
+          },
+          "rating" : 4.1,
+          "reference" : "ChIJeYF1A-WGHWAR-XJ7lfITrOM",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 66,
+          "vicinity" : "長野市大門町５４ ぱてぃお大門内"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.6521554,
+                "lng" : 138.1937537
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6535043802915,
+                   "lng" : 138.1951026802915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6508064197085,
+                   "lng" : 138.1924047197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "酒楽 ひろ喜",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3024,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101967668959702823555\"\u003e北澤哲也（北沢てつや）\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFg-Us6POyqh5TYojhVPc3D5eFoSJn5F4ryMRN2ZVYCWuLZVBBGCGzZmO7hWfi9McIgMW744_XGaUE45yUgd5rxHtE9Nw0LBP6iQPim1gpVpwYF46lugRPhuRQm_BRP7tOfFd5iClWUE1LDcT5JI3S_Q_jipUADP5Zs1A-3amEAwhNCg",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJM6XAW_GGHWARkoKZ6EdHPBE",
+          "plus_code" : 
+          {
+             "compound_code" : "M52V+VG 日本、長野県長野市",
+             "global_code" : "8Q8WM52V+VG"
+          },
+          "rating" : 4.6,
+          "reference" : "ChIJM6XAW_GGHWARkoKZ6EdHPBE",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 44,
+          "vicinity" : "Japan"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.65885889999999,
+                "lng" : 138.1874573
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.66020788029149,
+                   "lng" : 138.1888062802915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.65750991970849,
+                   "lng" : 138.1861083197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+          "name" : "信州りんご菓子工房 BENI-BENI",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 1728,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115797108461906328959\"\u003e信州りんご菓子工房 BENI-BENI\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFg1iata7b6j3f6GRNZmL_xNgfxDOFMHwTtvsylQYTNhkrPI-aCknIq882rUBT06P2EkGX0oJG7Z9gIWfJ6aUN3KW9wkTa0IaltDH5GAVAKnMOzs_CjIZOYTEbUArZqROgmXwsxYMPt1tQSuDOfjnjW7q4yKBPi-SIcdHQrGbdDeZphv",
+                "width" : 2592
+             }
+          ],
+          "place_id" : "ChIJbVvjdOOGHWARQsBgjK8IRR0",
+          "plus_code" : 
+          {
+             "compound_code" : "M55P+GX 日本、長野県長野市",
+             "global_code" : "8Q8WM55P+GX"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJbVvjdOOGHWARQsBgjK8IRR0",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "bakery",
+             "meal_takeaway",
+             "store",
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 157,
+          "vicinity" : "長野市長野元善町"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.64982929999999,
+                "lng" : 138.1873424
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6511597302915,
+                   "lng" : 138.1885997802915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6484617697085,
+                   "lng" : 138.1859018197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "モスバーガー長野SBC前店",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3000,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114151839947812398977\"\u003e守人\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFjkK-Za0q9QIQ7v0yHBK2K5UcyvaaxzQmf94WPmFzD0n-rVCJK0EfKEMH6tvWVi0kKZ_f189PCj79CrwqYWJB3ZotvTyLMmztoJ0EfMsh8tIKDssRN1JMKetK70_PcxJC9vw4ANmkeXYhxDigPYH7qi7u9lPy-arq7-eeoM_V6eX9v4",
+                "width" : 5333
+             }
+          ],
+          "place_id" : "ChIJvdAxYe6GHWARAUQzJtUR68o",
+          "plus_code" : 
+          {
+             "compound_code" : "J5XP+WW 日本、長野県長野市",
+             "global_code" : "8Q8WJ5XP+WW"
+          },
+          "price_level" : 2,
+          "rating" : 3.9,
+          "reference" : "ChIJvdAxYe6GHWARAUQzJtUR68o",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 174,
+          "vicinity" : "長野市鶴賀問御所町１２７１−３"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.6505214,
+                "lng" : 138.1888696
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6518669802915,
+                   "lng" : 138.1902101302915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6491690197085,
+                   "lng" : 138.1875121697085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "居酒屋 花盛",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 1290,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104519094139267010141\"\u003eMこ&amp;てつお\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFi8IsSjVeBPxCirgskRlolCVAFY-HEsS1tTqXgHwaHYu0NRAI0AqBGrNFMG_B5ZKI81U5PW8SykInpS-xt3ClUkcC65GNjlSpe5-IBps0OyQbIcPFfM3bsEVbgCPn6qrGn9IM036G68RKro1p41fOXP_NJCNwq4MGJIpB7_RPjRzkn2",
+                "width" : 1080
+             }
+          ],
+          "place_id" : "ChIJ1bXlEO6GHWARAu493a5E608",
+          "plus_code" : 
+          {
+             "compound_code" : "M52Q+6G 日本、長野県長野市",
+             "global_code" : "8Q8WM52Q+6G"
+          },
+          "price_level" : 2,
+          "rating" : 3.7,
+          "reference" : "ChIJ1bXlEO6GHWARAu493a5E608",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 62,
+          "vicinity" : "長野市鶴賀１３４７−４"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.654533,
+                "lng" : 138.183016
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.65584313029149,
+                   "lng" : 138.1843720802915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.65314516970849,
+                   "lng" : 138.1816741197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "メロン",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 1365,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101787802983209659767\"\u003eKouzi Kasai\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFjdW1-pjLTMAiYS4TCVdh784T59RMg_zep3OoUPx-g8Wtu78v6Rhe5_uvij9fYFVYhEz1pomcz_ZlkeD3-q4XDJdN2n3h5JDY5djr3Pc-cIvku_XRtmblsy2tJg6d12L_LUVnSJ00kiBlfChoFHNojGUQ4V4xo8_nsHDREX2qDQgvle",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJVYey7OaGHWARucdcDlAh6w8",
+          "plus_code" : 
+          {
+             "compound_code" : "M53M+R6 日本、長野県長野市",
+             "global_code" : "8Q8WM53M+R6"
+          },
+          "rating" : 3.9,
+          "reference" : "ChIJVYey7OaGHWARucdcDlAh6w8",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 46,
+          "vicinity" : "長野市長野１０９８"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.6530084,
+                "lng" : 138.183343
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.65435953029151,
+                   "lng" : 138.1850893302915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.65166156970851,
+                   "lng" : 138.1823913697085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Champagne Bar 漆舎 （シャンパンバー うるしのいえ）",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3744,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112467665810765106928\"\u003eChampagne Bar 漆舎 （シャンパンバー うるしのいえ）\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFgv_l1AK9lc6JLVsYmZmnrM1jRCv26aUWpwGFxulTzGxcL2m2bHDahpXUc7isr8eXd7IuG6OFhjOWrk2xhxI_ntk4SDJbDuJ-6ohXGnmp0YDfYUmmvV8emQWNO9U58enuLjZpc7ZxtVfYZ3Q6MQ4K-CO4BdaJPEHjD2Gvkb90xZc6rg",
+                "width" : 5616
+             }
+          ],
+          "place_id" : "ChIJaWP1P-aGHWARPn7JN3CG4Rw",
+          "plus_code" : 
+          {
+             "compound_code" : "M53M+68 日本、長野県長野市",
+             "global_code" : "8Q8WM53M+68"
+          },
+          "reference" : "ChIJaWP1P-aGHWARPn7JN3CG4Rw",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "vicinity" : "長野市南長野５２８−１"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.653613,
+                "lng" : 138.1874624
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6549642802915,
+                   "lng" : 138.1887403302915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6522663197085,
+                   "lng" : 138.1860423697085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "吉祥庵",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3264,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113453951977148105734\"\u003e吉祥庵\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFjpSxfyjAyJo03sdjnetAMyj8exKFW-R1gqTSIvsm0_BeCl6U_gIm9WNigdp9RI00MbKMN5Vi47L-7RDJ7jmd14JkuYNue-gTbw2VbPxkmfFk33q2CUltuoKOo4bmRQUnt90iDPyc5VMJg-d0OlUFHte7VT6NfhLWXjrRRR8XFBlJ9p",
+                "width" : 4928
+             }
+          ],
+          "place_id" : "ChIJA28QdnWfLxURvimFnTcD--U",
+          "plus_code" : 
+          {
+             "compound_code" : "M53P+CX 日本、長野県長野市",
+             "global_code" : "8Q8WM53P+CX"
+          },
+          "price_level" : 2,
+          "rating" : 4.3,
+          "reference" : "ChIJA28QdnWfLxURvimFnTcD--U",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 204,
+          "vicinity" : "長野市東後町１５"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.6582084,
+                "lng" : 138.1887373
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.65955898029151,
+                   "lng" : 138.1900214802915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.65686101970851,
+                   "lng" : 138.1873235197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "ラ・ランコントル",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3024,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107515925831550241068\"\u003etraveller DEEP\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFhg0EvzJJLbZmXgJMgHH0YJ4ciRLnKS2GQelJjHb0ScPHMa7JTCWuHdS9gRvYmde5ageoTDc7qPomiG1M8m1GPQ01pBCHbC23FafVEiYAm5Ql8sylfo6LwAAm4WCUquU9lGcKysGhby0xsFFYO5eymBcYt5HmzA0sAqc_BJr8kYGJ6h",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJa1sQpOSGHWARnR0dMw2fing",
+          "plus_code" : 
+          {
+             "compound_code" : "M55Q+7F 日本、長野県長野市",
+             "global_code" : "8Q8WM55Q+7F"
+          },
+          "price_level" : 3,
+          "rating" : 4.6,
+          "reference" : "ChIJa1sQpOSGHWARnR0dMw2fing",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 82,
+          "vicinity" : "長野市長野東之門町３２８"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.6566253,
+                "lng" : 138.1876106
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6579937302915,
+                   "lng" : 138.1889609802915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6552957697085,
+                   "lng" : 138.1862630197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "藤木庵",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 809,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117264542640467906573\"\u003e藤木庵\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFij9yVUttV9CpQUyhwhPcDas03uFk38ITCpF5qvCN1QBMvTp6-lSdzwvybRrRVLZe3NlIHiK-5WsJJV5-JE0iyKs69qqjLB_iBX9xARH8zhuelLkvh4riDbX1r2HXgZPF7HoreZ_tZztZDI9b1LtsFExW06Co77tDnSs-0W04JT2LVI",
+                "width" : 1440
+             }
+          ],
+          "place_id" : "ChIJiwMy8OSGHWARe80sqiAdEos",
+          "plus_code" : 
+          {
+             "compound_code" : "M54Q+M2 日本、長野県長野市",
+             "global_code" : "8Q8WM54Q+M2"
+          },
+          "price_level" : 2,
+          "rating" : 4.1,
+          "reference" : "ChIJiwMy8OSGHWARe80sqiAdEos",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 649,
+          "vicinity" : "長野市大字長野大門町６７"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.65796400000001,
+                "lng" : 138.188858
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6593174302915,
+                   "lng" : 138.1900764302915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6566194697085,
+                   "lng" : 138.1873784697085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "そば処 小菅亭",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 2592,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112198285207137786696\"\u003e中牟田寿嗣\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFjP2-RAZCoppTQgDdOI4_QoXp-iMXO2dDHFcQEDIvX5end53MhTgYDe75CL7kO44r8vNlbhck2j2RV_Zg2zOvv4Zs6PwhdJchZnOvP8WRO5ZiKNJGKsj_YApeWk2wCxi2oqFbYXHERcVLMMxTqtXuZrV9uLU3PWuDS4-p_kYln2M677",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJv6Mdu-SGHWAReHxFtecJnHo",
+          "plus_code" : 
+          {
+             "compound_code" : "M55Q+5G 日本、長野県長野市",
+             "global_code" : "8Q8WM55Q+5G"
+          },
+          "price_level" : 2,
+          "rating" : 3.9,
+          "reference" : "ChIJv6Mdu-SGHWAReHxFtecJnHo",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 308,
+          "vicinity" : "長野市長野３６７"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.65379800000001,
+                "lng" : 138.188224
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.65515403029151,
+                   "lng" : 138.1895267302915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.65245606970851,
+                   "lng" : 138.1868287697085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "一心",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 1536,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110881741961486351215\"\u003e塚田幸司\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFi71JDYGjPvgWIkwp68_FN853zzjBUgVAMVT9VgwCRMViE6vlR9Un_JURod_Tg71mSLxplDpSSOImt_s7dDbPFypY-HTR1swqXpWifv3nVqKIGkna4Xn_x2vuXK4lCn5w9yQQiQSFMOKZpHc1b02l8bpC3GO63U_tn4sfjLE9j19vvP",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJyx35iu-GHWARqMthy5Sfwwk",
+          "plus_code" : 
+          {
+             "compound_code" : "M53Q+G7 日本、長野県長野市",
+             "global_code" : "8Q8WM53Q+G7"
+          },
+          "price_level" : 3,
+          "rating" : 4.1,
+          "reference" : "ChIJyx35iu-GHWARqMthy5Sfwwk",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 28,
+          "vicinity" : "長野市３−２３６４"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.65289190000001,
+                "lng" : 138.1893252
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.65431263029151,
+                   "lng" : 138.1904974802915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.65161466970851,
+                   "lng" : 138.1877995197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "てんてん 権堂店",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3456,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114620488841076539131\"\u003eてんてん 権堂店\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFiTozZpgmUrH9pPtljJyIxSxTykNxWkTNJ5VKx3dPksAmy60OLoNKa9hzHjbPQwIp88dFMIIUpiGZb89v1ItFPjOBP2i5qROjs7zCJaXXTd0peBYmuANXXyBudZV1EFEUU4y_x16x-wujAgazhEdyCtKqfxQi469mLvkB1JKarG2CjD",
+                "width" : 5184
+             }
+          ],
+          "place_id" : "ChIJN5Uu3O-GHWARBKGVRDAil3A",
+          "plus_code" : 
+          {
+             "compound_code" : "M53Q+5P 日本、長野県長野市",
+             "global_code" : "8Q8WM53Q+5P"
+          },
+          "price_level" : 2,
+          "rating" : 4.1,
+          "reference" : "ChIJN5Uu3O-GHWARBKGVRDAil3A",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 188,
+          "vicinity" : "長野市鶴賀２３７３"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.6532606,
+                "lng" : 138.1874985
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6545757302915,
+                   "lng" : 138.1887612802915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.65187776970851,
+                   "lng" : 138.1860633197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "とんこつラーメン 博多屋台",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3024,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110352413926216297222\"\u003eH H\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFhMfNeh-9BaqkZzPrjkvFSCN-36c86hqmfhI5Z5uSIGiELOCOyPdB-j9dwXOj7sXq95Bebv-pTumUGtwaw-yIH-UHuA-_2PbThoXNS2tnQ7JdRphtWZ-LXiBVx-tKKXalcEOjA7i7QhgNvUqp6Q29oqwy5w4dCuoGwIWcQ_gHFlolb9",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJ95YFhO-GHWARy_ztTE_2kdc",
+          "plus_code" : 
+          {
+             "compound_code" : "M53P+8X 日本、長野県長野市",
+             "global_code" : "8Q8WM53P+8X"
+          },
+          "rating" : 3.5,
+          "reference" : "ChIJ95YFhO-GHWARy_ztTE_2kdc",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 362,
+          "vicinity" : "長野市東後町９−１"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.65297289999999,
+                "lng" : 138.1877292
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6542953302915,
+                   "lng" : 138.1891581302915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6515973697085,
+                   "lng" : 138.1864601697085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "手打ち蕎麦 かんだた",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 480,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112973671310529616078\"\u003e手打ちそば屋かんだた - Kandata\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFiE8TAzXtmsTVrxrYIQkKCza8kMHw6-Pw6OCfhNsKkTxS-qze6uhVJ_iwl1YxR3BlkAcLpkEx7oya3PHogLzIleDej4s6Flg6Z7kJY5VaTTEBiR-8aw1Q2x-RkJIk2yrUArf_J625ZT_bROKHzWrGg-wslWOqfd5fciqSVa2vJ4x8zv",
+                "width" : 640
+             }
+          ],
+          "place_id" : "ChIJV0D1mu-GHWARAqWW6dL8Gak",
+          "plus_code" : 
+          {
+             "compound_code" : "M53Q+53 日本、長野県長野市",
+             "global_code" : "8Q8WM53Q+53"
+          },
+          "price_level" : 2,
+          "rating" : 4.2,
+          "reference" : "ChIJV0D1mu-GHWARAqWW6dL8Gak",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 379,
+          "vicinity" : "長野市大字鶴賀権堂町２３２０"
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.65226010000001,
+                "lng" : 138.1885672
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.6535645302915,
+                   "lng" : 138.1898894802915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6508665697085,
+                   "lng" : 138.1871915197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "バロネス",
+          "permanently_closed" : true,
+          "place_id" : "ChIJSRz7yO-GHWARqUG7BPLujIs",
+          "plus_code" : 
+          {
+             "compound_code" : "M52Q+WC 日本、長野県長野市",
+             "global_code" : "8Q8WM52Q+WC"
+          },
+          "reference" : "ChIJSRz7yO-GHWARqUG7BPLujIs",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "meal_takeaway",
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "vicinity" : "長野市鶴賀２２７３ パロネス"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 36.650477,
+                "lng" : 138.1861811
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 36.65180128029149,
+                   "lng" : 138.1875388302915
+                },
+                "southwest" : 
+                {
+                   "lat" : 36.6491033197085,
+                   "lng" : 138.1848408697085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "南蛮亭",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 4032,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110549941874733712879\"\u003e山岸由里枝\u003c/a\u003e"
+                ],
+                "photo_reference" : "AWU5eFi6R_Ocsbi0VpK_K3sMDwXcZNNlKTl2Qgo1NSRRr1ynEBJ-wDllSnJy50GC6xtr4u-eRdmW36upygUNeI3Ci1dlF0VY5xpFFjLJpcQu6fteg5IS0RMKZY-Q7dENLSrTW6sVKES6Sp6qflM3VKhO2jE4F0KFnpsTa3VwoQqa-0wwZkWM",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJe_1P4e6GHWAR3XgVuZXmQbU",
+          "plus_code" : 
+          {
+             "compound_code" : "M52P+5F 日本、長野県長野市",
+             "global_code" : "8Q8WM52P+5F"
+          },
+          "rating" : 3.7,
+          "reference" : "ChIJe_1P4e6GHWAR3XgVuZXmQbU",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "user_ratings_total" : 31,
+          "vicinity" : "長野市南長野１５４３−３"
+       }
+    ],
+    "status" : "OK"
+ }
